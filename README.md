@@ -17,7 +17,7 @@ We are preparing an AI software system for project SIH26174 of ISRO targeting th
 
 
 ### Biological and DNA level feedback for biometrical BCI systems (research collaboration)<br>
-The current research is in the initial stages of studying the possibility of using continuous feedback from the activity of human cell/DNA by means of the well-fitted neural network in training of biometrical BCI systems with higher accuracy than now.
+>The current research is in the initial stages of studying the possibility of using continuous feedback from the activity of human cell/DNA by means of the well-fitted neural network in training of biometrical BCI systems with higher accuracy than now.
 
 
 
