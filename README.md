@@ -25,12 +25,24 @@ We are preparing an AI software system for project SIH26174 of ISRO targeting th
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omkar-pardeshi-dev0906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-pardeshi-dev0906" height="30" width="40" /></a>
-<a href="https://kaggle.com/thedevil096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thedevil096" height="30" width="40" /></a>
-<a href="https://medium.com/@omkarp.0906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omkarp.0906" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@the_devil-13u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@the_devil-13u" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omkar96-18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omkar96-18" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user_3iofolp1yh3/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_3iofolp1yh3/profile" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/omkar-pardeshi-dev0906" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" width="48" />
+  </a>
+  <a href="https://kaggle.com/thedevil096" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="Kaggle" height="48" width="48" />
+  </a>
+  <a href="https://www.leetcode.com/omkar96-18" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="48" width="48" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/user_3iofolp1yh3/profile" target="_blank">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/298D46" alt="GeeksforGeeks" height="48" width="48" />
+  </a>
+  <a href="https://medium.com/@omkarp.0906" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium/000000/FFFFFF" alt="Medium" height="48" width="48" />
+  </a>
+  <a href="https://www.youtube.com/c/@the_devil-13u" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="48" width="48" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
