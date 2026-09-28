@@ -1,5 +1,10 @@
 <h1 align="left">Hi, My name is  Omkar Pardeshi . . .</h1>
+
 <h3 align="left">I am a Machine Learning Engineer and Data Scientist with a full-stack working approach — able to take charge of a project from the data processing stage to a functioning API and the interface that enables it. I am presently working on applied computer vision systems, with a focus on bringing more MLOps, Natural Language Processing, and computer vision functionality into my work.</h3>
+
+<hr>
+<img src="download.png">
+<br><hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar96-18&label=Profile%20views&color=0e75b6&style=flat" alt="omkar96-18" /> </p>
 
